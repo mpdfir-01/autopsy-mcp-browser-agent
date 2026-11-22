@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "autopsy-filtered": {
+      "command": "C:\\Users\\Administrator\\AppData\\Local\\Programs\\Python\\Python315\\python.exe",
+      "args": [
+        "C:\\Users\\Administrator\\browser-agent\\autopsy-filter.py"
+      ]
+    }
+  }
+}
