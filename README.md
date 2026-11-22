@@ -1,4 +1,4 @@
------------------------AI integration with local Qwen LLMs and Autopsy 4.23.0----------------------------
+---------------------AI integration with local Qwen LLMs and Autopsy 4.23.0--------------------
 
 The Autopsy Model Context Protocol (MCP) interface, introduced in Autopsy 4.23.0, provides a read-only interface for querying and summarising open forensic cases using AI clients like Claude Desktop, Claude Code, or local LLM tools such as LM Studio.
 
