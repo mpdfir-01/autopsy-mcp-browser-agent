@@ -119,11 +119,6 @@ def extract_download_records(mcp_data):
 
     return records
 
-def find_records(node):
-    """Find objects explicitly marked TSK_WEB_DOWNLOAD; no other types accepted."""
-    found = []
-    seen = set()
-
     def visit(obj, inherited_type=None):
         if isinstance(obj, list):
             for v in obj:
