@@ -1,0 +1,7 @@
+{
+  "mcpServers" : {
+    "autopsy" : {
+      "command" : "C:\\Program Files\\Autopsy-4.23.1\\bin\\autopsy-mcp-stdio.exe"
+    }
+  }
+}

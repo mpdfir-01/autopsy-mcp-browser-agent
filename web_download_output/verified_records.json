@@ -1,0 +1,21 @@
+[
+  {
+    "artifact_id": 312250,
+    "source_file_id": 5314,
+    "data_source_id": 1,
+    "url": "https://www.nirsoft.net/toolsdownload/webbrowserpassview.zip",
+    "domain": "nirsoft.net",
+    "path": "C:\\Users\\ncidi\\Downloads\\webbrowserpassview.zip",
+    "timestamp_raw": "2023-10-21T17:27:20Z",
+    "program": "Microsoft Edge",
+    "attributes": {
+      "TSK_PATH": "C:\\Users\\ncidi\\Downloads\\webbrowserpassview.zip",
+      "TSK_PATH_ID": 25244,
+      "TSK_URL": "https://www.nirsoft.net/toolsdownload/webbrowserpassview.zip",
+      "TSK_DATETIME_ACCESSED": "2023-10-21T17:27:20Z",
+      "TSK_DOMAIN": "nirsoft.net",
+      "TSK_USER_NAME": "Default",
+      "TSK_PROG_NAME": "Microsoft Edge"
+    }
+  }
+]

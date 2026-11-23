@@ -1,0 +1,41 @@
+{
+  "caseId": "Windows10_System_Drive",
+  "result": [
+    {
+      "objectId": 312250,
+      "sourceFileId": 5314,
+      "artifactType": "TSK_WEB_DOWNLOAD",
+      "dataSourceId": 1,
+      "attributes": [
+        {
+          "type": "TSK_PATH",
+          "value": "C:\\Users\\ncidi\\Downloads\\webbrowserpassview.zip"
+        },
+        {
+          "type": "TSK_PATH_ID",
+          "value": 25244
+        },
+        {
+          "type": "TSK_URL",
+          "value": "https://www.nirsoft.net/toolsdownload/webbrowserpassview.zip"
+        },
+        {
+          "type": "TSK_DATETIME_ACCESSED",
+          "value": "2023-10-21T17:27:20Z"
+        },
+        {
+          "type": "TSK_DOMAIN",
+          "value": "nirsoft.net"
+        },
+        {
+          "type": "TSK_USER_NAME",
+          "value": "Default"
+        },
+        {
+          "type": "TSK_PROG_NAME",
+          "value": "Microsoft Edge"
+        }
+      ]
+    }
+  ]
+}

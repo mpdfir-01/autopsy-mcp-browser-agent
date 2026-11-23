@@ -1,0 +1,21 @@
+
+{
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "name": "Autopsy Web Download Agent",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "C:\\Users\\Administrator\\browser-agent\\web_download_agent.py",
+            "console": "integratedTerminal",
+            "cwd": "C:\\Users\\Administrator\\browser-agent",
+            "args": [
+                "--mcp-config",
+                "C:\\Users\\Administrator\\browser-agent\\.vscode\\autopsy_mcp.json",
+                "--model",
+                "qwen35-4b"
+            ]
+        }
+    ]
+}

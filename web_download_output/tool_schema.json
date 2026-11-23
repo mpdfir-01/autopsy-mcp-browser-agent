@@ -1,0 +1,25 @@
+{
+  "type": "object",
+  "properties": {
+    "attributeType": {
+      "type": "string",
+      "description": "Filter by attribute type name e.g. TSK_URL"
+    },
+    "attributeValue": {
+      "type": "string",
+      "description": "Filter by attribute value substring"
+    },
+    "dataSourceId": {
+      "type": "integer",
+      "description": "Object ID of the data source to limit results to (from query_data_sources objectId field)"
+    },
+    "limit": {
+      "type": "integer",
+      "description": "Max results, default 50, max 500"
+    },
+    "artifactType": {
+      "type": "string",
+      "description": "TSK artifact type name e.g. TSK_WEB_HISTORY"
+    }
+  }
+}
