@@ -23,7 +23,7 @@ Scenario 2. Create a workflow agent in Python
 
 We can create a Python script "web_download_agent.py, to act as an mcp client, to retrieve download history from the query_data_artifacts tool (Autopsy), and then send this to LM Studio/Qwen model for analysis. We use the OpenAI api to send a prompt to LM Studio. The script creates 5 json files, before submitting the retrieved details to LM Studio (analyse function). The script saves that output in a markdown file called web_download_report.md
 
-To provide a quicker response from LM Studio, we disable reasoning on the Qwen model, and in the model in LM Studio, in script, "enable_thinking": False". We also set tne max tokens to be returned to 500.
+To provide a quicker response from LM Studio, we disable reasoning on the Qwen model, and in the model in LM Studio, in the script, "enable_thinking": False". We also set tne max tokens to be returned to 500.
 
 Demo can be viewed here https://youtu.be/BIC-yQqF_UY
 
